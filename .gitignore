@@ -1,0 +1,11 @@
+Debug/
+Release/Makefile
+*.cproj
+*.d
+*.o
+*.elf
+*.eep
+*.lss
+*.srec
+*.mk
+*.map
